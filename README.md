@@ -29,6 +29,7 @@ Now available is the Pre Loaded Monitor Board Kit that comes ready to plug and p
 * Repetier support added in version 3.0 -- define in Settings.h
 * Video: https://youtu.be/niRv9SCgAPk
 * Detailed build video by Chris Riley: https://youtu.be/Rm-l1FSuJpI
+* Screen turnoff when room lights are off
 
 ## Required Parts:
 * Wemos D1 Mini: https://amzn.to/2ImqD1n
