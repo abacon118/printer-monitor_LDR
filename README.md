@@ -1,4 +1,4 @@
-# Printer Monitor (OctoPrint 3D Printer Monitor)
+# Printer Monitor (OctoPrint 3D Printer Monitor) by Qrome
 
 ## New Easy Monitor Board Kit:
 Now available is the Pre Loaded Monitor Board Kit that comes ready to plug and play on your network.  
@@ -116,6 +116,7 @@ David Payne -- Principal developer and architect
 Daniel Eichhorn -- Author of the TimeClient class and OLEDDisplayUi  
 Florian Schütte -- added flip display to web interface  
 Owen Carter -- Added psu control setting (v2.4) 
+Andrew Bowman -- Added Light Dependant Resistor and PCB
 
 Contributing to this software is warmly welcomed. You can do this basically by
 forking from master, committing modifications and then making a pulling requests to be reviewed (follow the links above
