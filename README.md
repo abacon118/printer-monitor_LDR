@@ -116,7 +116,7 @@ Or -- you can buy me something from my Amazon Wishlist: https://www.amazon.com/h
 David Payne -- Principal developer and architect  
 Daniel Eichhorn -- Author of the TimeClient class and OLEDDisplayUi  
 Florian Schütte -- added flip display to web interface  
-Owen Carter -- Added psu control setting (v2.4) 
+Owen Carter -- Added psu control setting (v2.4)  \
 Andrew Bowman -- Added Light Dependant Resistor and PCB
 
 Contributing to this software is warmly welcomed. You can do this basically by
